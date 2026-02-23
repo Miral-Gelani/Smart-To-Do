@@ -41,10 +41,4 @@ Writing clean, structured, and maintainable code
 
 This To-Do List application showcases the ability to build interactive and user-friendly web applications using core web technologies without relying on heavy frameworks. It reflects a strong understanding of JavaScript fundamentals and modern UI design principles.
 
-👩‍💻 Author
-
-Miral Gelani
-B.Tech Computer Engineering Student
-Passionate about Web Development and Creative UI Design
-
 ⭐ If you like this project, consider giving it a star!
