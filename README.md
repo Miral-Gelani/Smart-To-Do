@@ -1,8 +1,6 @@
 # Smart-To-Do
 A responsive Smart To-Do List web app built with HTML, CSS, JavaScript, Bootstrap 5.
 
-A modern, responsive, and visually appealing To-Do List web application built using HTML, CSS, Bootstrap 5, and Vanilla JavaScript.
-
 This project is designed to help users efficiently organize and manage their daily tasks through a clean interface, smooth interactions, and dynamic functionality. The application focuses on simplicity, usability, and elegant UI design while maintaining structured and readable code.
 
 🚀 Features
